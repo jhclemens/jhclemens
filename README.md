@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhclemens
-- 👀 I’m interested in Shopify, Ruby on Rails, iOS Game Developement and Laser Engraving
+- 👀 I’m interested in Ruby on Rails, iOS Game Developement and AI Applications
 - 🌱 I’m currently learning how to engrave with the Laserpacker 2
-- 💞️ I’m looking to collaborate on Shopify and general eCommerce Projects
+- 💞️ I’m looking to collaborate on modern Web Development
 
 
 <!---
